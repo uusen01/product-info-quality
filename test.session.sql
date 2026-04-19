@@ -1,0 +1,1 @@
+SELECT id, name, category, barcode, price FROM products;
